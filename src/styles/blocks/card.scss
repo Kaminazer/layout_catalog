@@ -92,8 +92,8 @@
     padding-block: 12px;
 
     transition:
-      color background-color,
-      $transition-duration;
+      color $transition-duration,
+      background-color $transition-duration;
 
     &:hover {
       height: 40px;

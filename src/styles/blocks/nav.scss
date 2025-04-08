@@ -22,7 +22,7 @@
     text-decoration: none;
     color: #060b35;
 
-    transition: all $transition-duration;
+    transition: color $transition-duration;
 
     &:hover {
       color: $main-color;
